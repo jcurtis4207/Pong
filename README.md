@@ -15,6 +15,7 @@ The downside is the Java sound mechanics are quite slow, so the sound doesn't sy
 This is why there is an option to disable the sound altogether.
 
 There are a few specific references I used, most of which are mentioned within the code, but I will reiterate here:
+
 Sound Generation
 https://stackoverflow.com/questions/34611134/java-beep-sound-produce-sound-of-some-specific-frequencies
 
